@@ -4,4 +4,7 @@ compatibility_date = "2024-08-06"
 compatibility_flags = [ "nodejs_compat" ]
 IS_LOCAL = false
 IS_DEV = false
+DEV_API = http://0.0.0.0:3000/shop-api
+LOCAL_API = http://0.0.0.0:3000/shop-api
+PROD_API = https://vendure-server-ow9s.onrender.com/shop-api
 
