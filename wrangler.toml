@@ -1,3 +1,4 @@
-name = "storefront-qwik-starter"
+# wrangler.toml
+name = 'tripitsu-vendure-qwik-frontend'
 compatibility_date = "2024-08-06"
 compatibility_flags = [ "nodejs_compat" ]
